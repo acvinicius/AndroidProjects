@@ -1,1 +1,1 @@
-include ':app', ':olimpiadas', ':calculator'
+include ':app', ':olimpiadas', ':calculator', ':calculator', ':game', ':easypizza'

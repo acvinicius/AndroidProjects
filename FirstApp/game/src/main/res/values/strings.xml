@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vini Apps</string>
+    <string name="app_title_game">Game</string>
+    <string name="play">Jogar</string>
+    <string name="oponente">Oponente</string>
+    <string name="computador">Computador</string>
+    <string name="oponente_wins">O oponente venceu!</string>
+    <string name="computador_wins">O computador venceu!</string>
+    <string name="empate">O jogo empatou!</string>
+</resources>

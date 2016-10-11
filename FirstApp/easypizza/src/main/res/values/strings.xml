@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EasyPizza</string>
+    <string name="choose">Escolha a pizza:</string>
+    <string name="marguerita">Marguerita</string>
+    <string name="four_cheese">4 Queijos</string>
+    <string name="a_moda">À Moda</string>
+    <string name="select">Solicitar</string>
+    <string name="borda">Borda recheada</string>
+</resources>

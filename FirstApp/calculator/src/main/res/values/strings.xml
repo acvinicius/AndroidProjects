@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vini Apps</string>
+    <string name="app_title">Calculadora</string>
+    <string name="app_title_game">Game</string>
+    <string name="number_1">Número 1:</string>
+    <string name="number_2">Número 2:</string>
+    <string name="sum">+</string>
+    <string name="plus">X</string>
+    <string name="divide">/</string>
+    <string name="minus">-</string>
+    <string name="result">Resultado:</string>
+</resources>
