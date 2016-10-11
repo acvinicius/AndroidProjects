@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="app_btn_name">Message</string>
+    <string name="app_title">Hello World!!!</string>
+    <string name="hello_message">Hello People!!!</string>
+    <string name="ok">OK</string>
+</resources>

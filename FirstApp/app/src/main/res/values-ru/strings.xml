@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="hello_message">Привет народ!))</string>
+    <string name="app_title">Привет мир!))</string>
+    <string name="ok">ДА</string>
+</resources>
