@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Olimpíadas</string>
+    <string name="home_title">Ingressos</string>
+    <string name="home_name">Nome:</string>
+    <string name="home_age">Idade:</string>
+    <string name="home_period">Período:</string>
+    <string name="home_type">Modalidade:</string>
+    <string name="home_btn_reserve">Reservar</string>
+    <string name="home_btn_confirm">Confirmar</string>
+    <string name="confirmation">Confirmação</string>
+    <string name="home_btn_ok">OK</string>
+    <string name="home_radio_morning">Manhã (9h - 12h)</string>
+    <string name="home_radio_afternoon">Tarde (13h - 18h)</string>
+    <string name="home_radio_night">Noite (18h - 23h)</string>
+    <string name="data">Data:</string>
+    <string name="hora">Hora:</string>
+    <string-array name="home_type_array">
+        <item>Atletismo</item>
+        <item>Futebol</item>
+        <item>Natação</item>
+    </string-array>
+</resources>

@@ -10,22 +10,12 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.acv.servicedroid.BoundActivity">
 
-    <ImageView
-        android:id="@+id/imageView1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="-80dp"
-        android:src="@mipmap/ic_launcher" />
-
     <Button
         android:id="@+id/print_timestamp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="130dp"
         android:text="Print Timestamp" />
 
     <TextView
@@ -34,7 +24,6 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/print_timestamp"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="120dp"
         android:text="" />
 
     <Button
@@ -43,5 +32,6 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/print_timestamp"
         android:layout_centerHorizontal="true"
-        android:text="Stop Service" />
+        android:text="Stop Service"
+        android:onClick="print"/>
 </RelativeLayout>

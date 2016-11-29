@@ -70,6 +70,11 @@ public class BoundActivity extends AppCompatActivity {
         }
     }
 
+    public void print (View view) {
+        if (mServiceBound) {
+           timeStampText.setText(mBoundService.getTimestamp());
+        }
+    }
 
     private ServiceConnection mServiceConnection = new ServiceConnection() {
 
