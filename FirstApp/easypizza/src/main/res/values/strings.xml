@@ -6,4 +6,9 @@
     <string name="a_moda">À Moda</string>
     <string name="select">Solicitar</string>
     <string name="borda">Borda recheada</string>
+    <string-array name="payment_type">
+        <item>Cartão de Crédito</item>
+        <item>Cartão de débito</item>
+        <item>Natação</item>
+    </string-array>
 </resources>

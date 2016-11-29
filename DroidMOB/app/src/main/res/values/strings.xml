@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DroidMOB</string>
+    <string name="username">Usuário</string>
+    <string name="password">senha</string>
+    <string name="login">Logar</string>
+    <string name="loguser">logUser</string>
+    <string name="email">Email</string>
+    <string name="site">Site</string>
+    <string name="mobile">Telefone</string>
+    <string name="register">Cadastrar</string>
+    <string name="user">user</string>
+    <string name="nome">Nome:</string>
+    <string name="user_site">Site:</string>
+    <string name="user_email">user_email</string>
+    <string name="user_mobile">user_mobile</string>
+</resources>

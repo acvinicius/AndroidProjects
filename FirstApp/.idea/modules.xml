@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/easypizza/easypizza.iml" filepath="$PROJECT_DIR$/easypizza/easypizza.iml" />
       <module fileurl="file://$PROJECT_DIR$/game/game.iml" filepath="$PROJECT_DIR$/game/game.iml" />
       <module fileurl="file://$PROJECT_DIR$/olimpiadas/olimpiadas.iml" filepath="$PROJECT_DIR$/olimpiadas/olimpiadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/olimpic/olimpic.iml" filepath="$PROJECT_DIR$/olimpic/olimpic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videos/videos.iml" filepath="$PROJECT_DIR$/videos/videos.iml" />
     </modules>
   </component>
 </project>

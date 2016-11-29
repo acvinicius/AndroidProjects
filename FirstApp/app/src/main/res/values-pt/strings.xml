@@ -5,4 +5,6 @@
     <string name="app_title">Olá Mundo!!!</string>
     <string name="hello_message">Olá pessoas!!!</string>
     <string name="ok">OK</string>
+    <string name="confirmation">Confirmação</string>
+    <string name="Confirm">Confirmar</string>
 </resources>

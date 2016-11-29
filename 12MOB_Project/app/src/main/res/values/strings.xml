@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">12MOB_Project</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="_12_mob">12 MOB</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="portrait_message">Portrait</string>
+    <string name="landscape_message">Landscape</string>
+</resources>

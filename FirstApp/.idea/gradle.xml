@@ -14,6 +14,8 @@
             <option value="$PROJECT_DIR$/easypizza" />
             <option value="$PROJECT_DIR$/game" />
             <option value="$PROJECT_DIR$/olimpiadas" />
+            <option value="$PROJECT_DIR$/olimpic" />
+            <option value="$PROJECT_DIR$/videos" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

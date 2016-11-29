@@ -5,4 +5,6 @@
     <string name="app_title">Hello World!!!</string>
     <string name="hello_message">Hello People!!!</string>
     <string name="ok">OK</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="Confirm">Confirm</string>
 </resources>
