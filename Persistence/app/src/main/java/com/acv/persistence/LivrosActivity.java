@@ -7,6 +7,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 
+import com.acv.persistence.DAO.LivroDAO;
+import com.acv.persistence.model.Livro;
+
 public class LivrosActivity extends AppCompatActivity {
 
     @Override
@@ -24,6 +27,9 @@ public class LivrosActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+        LivroDAO livroDAO = new LivroDAO();
+//        livroDAO.carregaDados();
     }
+
 
 }
